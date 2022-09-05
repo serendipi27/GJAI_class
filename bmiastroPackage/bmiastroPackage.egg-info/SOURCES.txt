@@ -1,0 +1,6 @@
+setup.py
+bmiastroPackage/bmitest.py
+bmiastroPackage.egg-info/PKG-INFO
+bmiastroPackage.egg-info/SOURCES.txt
+bmiastroPackage.egg-info/dependency_links.txt
+bmiastroPackage.egg-info/top_level.txt
